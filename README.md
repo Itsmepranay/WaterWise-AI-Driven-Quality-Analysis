@@ -86,22 +86,5 @@ npm start    # Start React app
 
 ---
 
-## 📝 Future Enhancements
-- Add more AI models for accuracy.
-- Implement a database for storing historical data.
-- Improve UI with real-time location fetching.
 
----
 
-## 🤝 Contributing
-Pull requests are welcome! For major changes, please open an issue first to discuss what you would like to change.
-
----
-
-## 📜 License
-This project is licensed under the MIT License.
-
----
-
-### 💡 Authors
-- **Your Name** - [GitHub Profile](https://github.com/your-username)
