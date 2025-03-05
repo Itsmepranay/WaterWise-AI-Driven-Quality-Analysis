@@ -82,7 +82,7 @@ Your response should only provide precautionary recommendations based on deviati
     headers = {
         "accept": "application/json",
         "content-type": "application/json",
-        "authorization": "Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VyX2lkIjoiNzc5NmQ0M2UtN2M0MS00YmZjLTlmMTEtYzVmMTllOGNhODQzIiwidHlwZSI6ImFwaV90b2tlbiJ9.fNbGuzFXtSPih7LNOvRFZAFxqE53f_zkWKEifbAzSs4"
+        "authorization": "Bearer YOUR_API_KEY"
     }
 
     response = requests.post(url, json=payload, headers=headers)
