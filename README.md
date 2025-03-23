@@ -44,7 +44,7 @@ This project predicts groundwater quality parameters (Temperature, pH, and Condu
 ```bash
 # Clone the repository
 git clone https://github.com/Itsmepranay/WaterWise-AI-Driven-Quality-Analysis
-cd WaterWise-AI-Driven-Quality-Analysis/backend
+
 
 # Create virtual environment and install dependencies
 python -m venv venv
